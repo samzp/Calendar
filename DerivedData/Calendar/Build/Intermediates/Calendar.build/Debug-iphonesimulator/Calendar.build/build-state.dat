@@ -1,0 +1,385 @@
+TCalendar
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch Calendar/Calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o /Users/Sylar/xCode/Calendar/Calendar/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o /Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o /Users/Sylar/xCode/Calendar/Calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar normal x86_64
+cCompileStoryboard /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings Calendar/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app /Users/Sylar/xCode/Calendar/Calendar/Images.xcassets
+cProcessInfoPlistFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist /Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist
+cGenerateDSYMFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar
+cTouch /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534DFB340000000000000198
+t1397619508
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533D1AB900000000000003B4
+t1396513465
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533D1ABC000000000000019E
+t1396513468
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534DFB1F0000000000446820
+t1397619487
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533D1ABE000000000088D8C0
+t1396513470
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533D1AC00000000001F1DE10
+t1396513472
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533D1AD20000000000000ADC
+t1396513490
+s2780
+
+N/Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m
+c00000000535E08BC00000000000008D1
+t1398671548
+s2257
+
+N/Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard
+c00000000535E08820000000000000713
+t1398671490
+s1811
+
+N/Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard
+c00000000535E0882000000000000071B
+t1398671490
+s1819
+
+N/Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist
+c00000000535E08820000000000000641
+t1398671490
+s1601
+
+N/Users/Sylar/xCode/Calendar/Calendar/Calendar-Prefix.pch
+c00000000535E08820000000000000158
+t1398671490
+s344
+
+N/Users/Sylar/xCode/Calendar/Calendar/Images.xcassets
+c00000000535E08820000000000000088
+t1398671490
+s136
+
+N/Users/Sylar/xCode/Calendar/Calendar/ViewController.m
+c00000000535E08D20000000000000239
+t1398671570
+s569
+
+N/Users/Sylar/xCode/Calendar/Calendar/en.lproj/InfoPlist.strings
+c00000000535E0882000000000000002D
+t1398671490
+s45
+
+N/Users/Sylar/xCode/Calendar/Calendar/main.m
+c00000000535E08820000000000000149
+t1398671490
+s329
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o
+t1398671574
+s70408
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/Calendar.LinkFileList
+c00000000535E08D500000000000001D3
+t1398671573
+s467
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o
+t1398671574
+s40684
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o
+t1398671574
+s3732
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_dependencies.txt
+t1398671575
+s408
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_generated_info.plist
+t1398671575
+s525
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch
+t1398671574
+s116392
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app
+t1398671575
+s306
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM
+t2
+s0
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Base.lproj/Main_iPad.storyboardc
+t1398671575
+s170
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Base.lproj/Main_iPhone.storyboardc
+t1398671574
+s170
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar
+t1398671574
+s21792
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist
+t1398671575
+s1297
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/PkgInfo
+t1398671575
+s8
+
+N/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings
+t1398671574
+s42
+
+CBuild AST from /Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m
+r0
+
+CBuild AST from /Users/Sylar/xCode/Calendar/Calendar/ViewController.m
+r0
+
+CBuild AST from /Users/Sylar/xCode/Calendar/Calendar/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2f8b4d55400eb941^9a3e5755400eb941^---0#1#1#--18"Check dependencies36"73AD9BCF-6275-4C99-A85B-36B2ED458F53-
+
+CCompileAssetCatalog /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app /Users/Sylar/xCode/Calendar/Calendar/Images.xcassets
+s420364374.629044
+e420364375.306918
+r1
+xCompileAssetCatalog
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app
+x/Users/Sylar/xCode/Calendar/Calendar/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/LaunchImage-700-568h@2x.png
+o/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Assets.car
+o/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CompileAssetCatalog DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app Calendar/Images.xcassets115"CompileAssetCatalog DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app Calendar/Images.xcassets0116a156400eb941^60924e57400eb941^-436"/* com.apple.actool.compilation-results *//Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/LaunchImage-700-568h@2x.png/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Assets.car/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@60"file:///Users/Sylar/xCode/Calendar/Calendar/Images.xcassets/0000000000000000^1196"CompileAssetCatalog DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app Calendar/Images.xcassets    cd /Users/Sylar/xCode/Calendar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app /Users/Sylar/xCode/Calendar/Calendar/Images.xcassets36"3D34C71F-C71F-4021-9826-59DFA8B79D44-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o /Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420364374.421921
+e420364374.472195
+r1
+xCompileC
+xDerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m
+d/Users/Sylar/xCode/Calendar/Calendar/AppDelegate.h
+d/Users/Sylar/xCode/Calendar/Calendar/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m230"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o Calendar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb176c56400eb941^c1e27856400eb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m0000000000000000^3803"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o Calendar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Sylar/xCode/Calendar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Sylar/xCode/Calendar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-generated-files.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-own-target-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-all-target-headers.hmap -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-project-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources/x86_64 -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources -F/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator -include /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch -MMD -MT dependencies -MF /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/Sylar/xCode/Calendar/Calendar/AppDelegate.m -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o36"1554074A-7096-40B5-8DF6-A871A481A038-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o /Users/Sylar/xCode/Calendar/Calendar/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420364374.421740
+e420364374.465420
+r1
+xCompileC
+xDerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o
+x/Users/Sylar/xCode/Calendar/Calendar/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sylar/xCode/Calendar/Calendar/ViewController.m
+d/Users/Sylar/xCode/Calendar/Calendar/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/Sylar/xCode/Calendar/Calendar/ViewController.m236"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o Calendar/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler30106c56400eb941^57277756400eb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/Sylar/xCode/Calendar/Calendar/ViewController.m0000000000000000^3821"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o Calendar/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Sylar/xCode/Calendar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Sylar/xCode/Calendar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-generated-files.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-own-target-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-all-target-headers.hmap -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-project-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources/x86_64 -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources -F/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator -include /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch -MMD -MT dependencies -MF /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.dia -c /Users/Sylar/xCode/Calendar/Calendar/ViewController.m -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o36"2C1D6B87-617A-4828-8459-5D1BB6DE1A67-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o /Users/Sylar/xCode/Calendar/Calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420364374.422164
+e420364374.452406
+r1
+xCompileC
+xDerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o
+x/Users/Sylar/xCode/Calendar/Calendar/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sylar/xCode/Calendar/Calendar/main.m
+d/Users/Sylar/xCode/Calendar/Calendar/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/Sylar/xCode/Calendar/Calendar/main.m216"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o Calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerab226c56400eb941^35d17356400eb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/Sylar/xCode/Calendar/Calendar/main.m0000000000000000^3761"CompileC DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o Calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Sylar/xCode/Calendar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Sylar/xCode/Calendar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-generated-files.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-own-target-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-all-target-headers.hmap -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-project-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources/x86_64 -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources -F/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator -include /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch -MMD -MT dependencies -MF /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.dia -c /Users/Sylar/xCode/Calendar/Calendar/main.m -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o36"BFBF449B-B1AD-4FD9-9BF2-4F47CBE7FABD-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCompileStoryboard /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard
+s420364374.628527
+e420364375.242333
+r1
+xCompileStoryboard
+x/Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard Calendar/Base.lproj/Main_iPad.storyboard58"CompileStoryboard Calendar/Base.lproj/Main_iPad.storyboarddcf3a056400eb941^ff093e57400eb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard0000000000000000^845"CompileStoryboard Calendar/Base.lproj/Main_iPad.storyboard    cd /Users/Sylar/xCode/Calendar    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Base.lproj/Main_iPad.storyboardc /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPad.storyboard36"710E8B75-4EB7-4A5B-B024-24941836E4E0-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCompileStoryboard /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard
+s420364374.628653
+e420364374.880471
+r1
+xCompileStoryboard
+x/Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard Calendar/Base.lproj/Main_iPhone.storyboard60"CompileStoryboard Calendar/Base.lproj/Main_iPhone.storyboard48fea056400eb941^8368e156400eb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard0000000000000000^851"CompileStoryboard Calendar/Base.lproj/Main_iPhone.storyboard    cd /Users/Sylar/xCode/Calendar    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Base.lproj/Main_iPhone.storyboardc /Users/Sylar/xCode/Calendar/Calendar/Base.lproj/Main_iPhone.storyboard36"0EEDD71D-A5F0-4048-98E9-93E62F507A08-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CCopyStringsFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings Calendar/en.lproj/InfoPlist.strings
+s420364374.628781
+e420364374.632667
+r1
+xCopyStringsFile
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings
+xCalendar/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Calendar/en.lproj/InfoPlist.strings149"CopyStringsFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings Calendar/en.lproj/InfoPlist.stringsd105a156400eb941^cbf6a156400eb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Sylar/xCode/Calendar/Calendar/en.lproj/InfoPlist.strings0000000000000000^617"CopyStringsFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj/InfoPlist.strings Calendar/en.lproj/InfoPlist.strings    cd /Users/Sylar/xCode/Calendar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/en.lproj -- Calendar/en.lproj/InfoPlist.strings36"4B2FE2B5-DB7D-416E-94AD-77C484D3700B-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CGenerateDSYMFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar
+s420364375.309047
+e420364375.321018
+r1
+xGenerateDSYMFile
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generate /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM172"GenerateDSYMFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar6c264f57400eb941^d32e5257400eb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM0034f84fdfffdf42^718"GenerateDSYMFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar    cd /Users/Sylar/xCode/Calendar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app.dSYM36"7A0F3827-B436-4034-A7B9-0C48B1FD02A8-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CLd /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar normal x86_64
+s420364374.472821
+e420364374.627824
+r1
+xLd
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar
+xnormal
+xx86_64
+d/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/Calendar.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/ViewController.o
+d/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar96"Ld DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar normal x86_641a187956400eb941^30baa056400eb941^---0#0#1#--1467"Ld DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar normal x86_64    cd /Users/Sylar/xCode/Calendar    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator -F/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator -filelist /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/Calendar.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Objects-normal/x86_64/Calendar_dependency_info.dat -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Calendar36"EEDAB700-6FC0-4294-8BAC-74839834D5F0-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CProcessInfoPlistFile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist /Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist
+s420364375.307375
+e420364375.308723
+r1
+xProcessInfoPlistFile
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist
+x/Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist131"ProcessInfoPlistFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist Calendar/Calendar-Info.plistecbf4e57400eb941^3d0a4f57400eb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist0000000000000000^920"ProcessInfoPlistFile DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist Calendar/Calendar-Info.plist    cd /Users/Sylar/xCode/Calendar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Sylar/xCode/Calendar/Calendar/Calendar-Info.plist -genpkginfo /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/assetcatalog_generated_info.plist -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app/Info.plist36"CF056F77-2893-4626-824B-FD92AA097443-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CProcessPCH /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch Calendar/Calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420364373.340829
+e420364374.421155
+r1
+xProcessPCH
+x/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch
+xCalendar/Calendar-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Sylar/xCode/Calendar/Calendar/Calendar-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Calendar/Calendar-Prefix.pch238"ProcessPCH DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch Calendar/Calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera8565755400eb941^95d26b56400eb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/Sylar/xCode/Calendar/Calendar/Calendar-Prefix.pch0000000000000000^3658"ProcessPCH DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch Calendar/Calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Sylar/xCode/Calendar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Sylar/xCode/Calendar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-generated-files.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-own-target-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-all-target-headers.hmap -iquote /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/Calendar-project-headers.hmap -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources/x86_64 -I/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/Calendar.build/Debug-iphonesimulator/Calendar.build/DerivedSources -F/Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.d -c /Users/Sylar/xCode/Calendar/Calendar/Calendar-Prefix.pch -o /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Intermediates/PrecompiledHeaders/Calendar-Prefix-bwcgsyaxojadmeamdvstotcapjkl/Calendar-Prefix.pch.pch36"26FCEB2D-7A6A-4D02-9EA0-FC1EE186AFA0-
+b0CE22150-2A40-4BA2-ADDA-3F0E7E472CA1
+
+CProcessPCH /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Index/PrecompiledHeaders/Calendar-Prefix-fqyvrutslosimheczcskegjibfec_ast/Calendar-Prefix.pch.pch Calendar/Calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Sylar/xCode/Calendar/DerivedData/Calendar/Build/Products/Debug-iphonesimulator/Calendar.app
+r0
+
